@@ -1,6 +1,6 @@
 ## 👋🏻 Hi there, I'm Alberto 
 
-🎯 Aspiring Data Engineer with a strong background in back-end development and cloud solutions.
+🎯 Aspiring Cloud/Data/AI Engineer with a strong background in back-end development and cloud solutions.
 
 🎓 Crrently enrolled in [BeCode](https://github.com/becodeorg)'s "Data Science & AI" bootcamp (2025).
 
